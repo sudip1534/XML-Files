@@ -1,1 +1,1 @@
-# XML-Files
+Here, you will find one XML file with it's schema and Dtd file, Besides this, you will also get DomParserSchema Class in order to validate schema using java. To run this class, you have to add the Xml.xml and Xml.xsd file inside of the src folder of the java project.
