@@ -1,0 +1,20 @@
+<!DOCTYPE Cricket
+[
+<!ELEMENT Cricket(team1,team2)>
+<!ELEMENT team1 (Name,World_Cup,Description,Player,Coach,Ranking)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT World_Cup (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT Player (#PCDATA)>
+<!ELEMENT Coach (#PCDATA)>
+<!ELEMENT Ranking (#PCDATA)>
+
+<!ELEMENT team2 (Name,World_Cup,Description,Player,Coach,Ranking)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT World_Cup (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT Player (#PCDATA)>
+<!ELEMENT Coach (#PCDATA)>
+<!ELEMENT Ranking (#PCDATA)>
+
+]>

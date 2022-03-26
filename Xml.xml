@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Xml SYSTEM "Xml.dtd">
+<Cricket>
+   <Team1>
+      <Name>Australia</Name>
+      <World_Cup>Won 5 World_Cup. Last year, they also won their first T20 title.</World_Cup>
+      <Description>One of the most Succesful cricket team in the world. I always love to see their games even during the exams.</Description>
+      <Player>Adam Gilchrist is my most favourite cricketer of the team forever. He is the player who can release all pressure from other players alone.</Player>
+      <Coach>Justin Langer is their head coach now</Coach>
+      <Ranking>They are holding number 1 position in test format</Ranking>
+   </Team1>
+   <Team2>
+      <Name>SouthAfrica</Name>
+      <World_Cup>No world cup yet; But if you are a real cricket fan, you will love their style of playing</World_Cup>
+      <Description>This team always in rankin. They have every types of best player;like hard hitter batsman, high speed bowler or amazing fielder. But they are very unlucky in winning cups.</Description>
+      <Player>Abd is my all time favourite cricketer among all players. He is the player who can play anywhere maintaining any strike what his team required.</Player>
+      <Coach>Mark Boucher is their head coach now</Coach>
+      <Ranking>They are holding number 5 position now in all format as most of their recent best players retired at a time</Ranking>
+   </Team2>
+</Cricket>
+
+

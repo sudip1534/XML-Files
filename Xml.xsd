@@ -1,0 +1,32 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Cricket">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Team1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Name"/>
+              <xs:element type="xs:string" name="World_Cup"/>
+              <xs:element type="xs:string" name="Description"/>
+              <xs:element type="xs:string" name="Player"/>
+              <xs:element type="xs:string" name="Coach"/>
+              <xs:element type="xs:string" name="Ranking"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Team2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Name"/>
+              <xs:element type="xs:string" name="World_Cup"/>
+              <xs:element type="xs:string" name="Description"/>
+              <xs:element type="xs:string" name="Player"/>
+              <xs:element type="xs:string" name="Coach"/>
+              <xs:element type="xs:string" name="Ranking"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
