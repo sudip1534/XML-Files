@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Cricket SYSTEM "Xml.dtd">
+<Cricket>
+   <Team>
+      <Name>Australia</Name>
+      <World_Cup>Won 5 World_Cup. Last year, they also won their first T20 title.</World_Cup>
+      <Description>One of the most Successful cricket team in the world. I always love to see their games even during the exams.</Description>
+      <Player>Adam Gilchrist is my most favourite cricketer of the team forever. He is the player who can release all pressure from other players alone.</Player>
+      <Coach>Justin Langer is their head coach now</Coach>
+      <Ranking>They are holding number 1 position in test format</Ranking>
+   </Team>
+</Cricket>
